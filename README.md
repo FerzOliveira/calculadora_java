@@ -8,20 +8,20 @@ This is a simple calculator that execute the four basic math operations (*, /, +
 
 Install:
 
-1- Install and execute .
+1- Install and execute Apache NetBeans.
 
-2- Import 'sistema-aluno.sql' to your DataBase.
+2- Put the files in docs or any other location that you prefer.
 
-3- Put all the files in: "C:\xampp\htdocs".
+3- Open the project files with Apache Netbeans.
 
-4- Acess 'http://localhost' in your browser.
+4- compile and execute the project.
 
 Instalação:
 
-1- Instalar XAMPP e executar o APACHE e MYSQL.
+1- Instalar e executar o Apache NetBeans.
 
-2- Importar o arquivo 'sistema-aluno.sql' para sua Base de dados.
+2- Coloque os arquivos nos documentos ou qualquer outro local de sua preferencia.
 
-3- Coloque todos os arquivos em: "C:\xampp\htdocs".
+3- Abra os arquivos do projeto com o NetBeans.
 
-4- Acesse 'http://localhost' em seu navegador.
+4- Compilar e executar o projeto.
